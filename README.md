@@ -55,4 +55,5 @@ This tool is particularly useful for artists and technical directors who work wi
 1. **Clone or Download the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/houdini-group-blast-tool.git
+   https://github.com/somu39/Blast_Goups.git
+   
